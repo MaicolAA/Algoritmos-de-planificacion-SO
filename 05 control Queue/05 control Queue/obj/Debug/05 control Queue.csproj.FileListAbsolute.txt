@@ -1,0 +1,8 @@
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\05 control Queue\05 control Queue\bin\Debug\05 control Queue.exe.config
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\05 control Queue\05 control Queue\bin\Debug\05 control Queue.exe
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\05 control Queue\05 control Queue\bin\Debug\05 control Queue.pdb
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\05 control Queue\05 control Queue\obj\Debug\05 control Queue.csproj.AssemblyReference.cache
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\05 control Queue\05 control Queue\obj\Debug\05 control Queue.csproj.SuggestedBindingRedirects.cache
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\05 control Queue\05 control Queue\obj\Debug\05 control Queue.csproj.CoreCompileInputs.cache
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\05 control Queue\05 control Queue\obj\Debug\05 control Queue.exe
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\05 control Queue\05 control Queue\obj\Debug\05 control Queue.pdb

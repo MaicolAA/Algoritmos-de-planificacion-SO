@@ -1,0 +1,8 @@
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\06 Inversion Prioridad\06 Inversion Prioridad\bin\Debug\06 Inversion Prioridad.exe.config
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\06 Inversion Prioridad\06 Inversion Prioridad\bin\Debug\06 Inversion Prioridad.exe
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\06 Inversion Prioridad\06 Inversion Prioridad\bin\Debug\06 Inversion Prioridad.pdb
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\06 Inversion Prioridad\06 Inversion Prioridad\obj\Debug\06 Inversion Prioridad.csproj.AssemblyReference.cache
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\06 Inversion Prioridad\06 Inversion Prioridad\obj\Debug\06 Inversion Prioridad.csproj.SuggestedBindingRedirects.cache
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\06 Inversion Prioridad\06 Inversion Prioridad\obj\Debug\06 Inversion Prioridad.csproj.CoreCompileInputs.cache
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\06 Inversion Prioridad\06 Inversion Prioridad\obj\Debug\06 Inversion Prioridad.exe
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\06 Inversion Prioridad\06 Inversion Prioridad\obj\Debug\06 Inversion Prioridad.pdb

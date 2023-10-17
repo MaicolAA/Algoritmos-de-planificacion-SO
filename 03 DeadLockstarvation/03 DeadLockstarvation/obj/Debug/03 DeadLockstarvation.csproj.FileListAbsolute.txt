@@ -1,0 +1,8 @@
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\03 DeadLockstarvation\03 DeadLockstarvation\bin\Debug\03 DeadLockstarvation.exe.config
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\03 DeadLockstarvation\03 DeadLockstarvation\bin\Debug\03 DeadLockstarvation.exe
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\03 DeadLockstarvation\03 DeadLockstarvation\bin\Debug\03 DeadLockstarvation.pdb
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\03 DeadLockstarvation\03 DeadLockstarvation\obj\Debug\03 DeadLockstarvation.csproj.AssemblyReference.cache
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\03 DeadLockstarvation\03 DeadLockstarvation\obj\Debug\03 DeadLockstarvation.csproj.SuggestedBindingRedirects.cache
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\03 DeadLockstarvation\03 DeadLockstarvation\obj\Debug\03 DeadLockstarvation.csproj.CoreCompileInputs.cache
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\03 DeadLockstarvation\03 DeadLockstarvation\obj\Debug\03 DeadLockstarvation.exe
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\03 DeadLockstarvation\03 DeadLockstarvation\obj\Debug\03 DeadLockstarvation.pdb

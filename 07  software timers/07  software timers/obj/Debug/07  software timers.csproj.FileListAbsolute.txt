@@ -1,0 +1,8 @@
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\07  software timers\07  software timers\bin\Debug\07  software timers.exe.config
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\07  software timers\07  software timers\bin\Debug\07  software timers.exe
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\07  software timers\07  software timers\bin\Debug\07  software timers.pdb
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\07  software timers\07  software timers\obj\Debug\07  software timers.csproj.AssemblyReference.cache
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\07  software timers\07  software timers\obj\Debug\07  software timers.csproj.SuggestedBindingRedirects.cache
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\07  software timers\07  software timers\obj\Debug\07  software timers.csproj.CoreCompileInputs.cache
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\07  software timers\07  software timers\obj\Debug\07  software timers.exe
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\07  software timers\07  software timers\obj\Debug\07  software timers.pdb

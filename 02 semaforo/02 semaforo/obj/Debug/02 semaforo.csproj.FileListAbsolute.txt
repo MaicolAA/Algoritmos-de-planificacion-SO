@@ -1,0 +1,8 @@
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\02 semaforo\02 semaforo\bin\Debug\02 semaforo.exe.config
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\02 semaforo\02 semaforo\bin\Debug\02 semaforo.exe
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\02 semaforo\02 semaforo\bin\Debug\02 semaforo.pdb
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\02 semaforo\02 semaforo\obj\Debug\02 semaforo.csproj.AssemblyReference.cache
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\02 semaforo\02 semaforo\obj\Debug\02 semaforo.csproj.SuggestedBindingRedirects.cache
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\02 semaforo\02 semaforo\obj\Debug\02 semaforo.csproj.CoreCompileInputs.cache
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\02 semaforo\02 semaforo\obj\Debug\02 semaforo.exe
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\02 semaforo\02 semaforo\obj\Debug\02 semaforo.pdb

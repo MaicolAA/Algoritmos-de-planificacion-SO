@@ -1,0 +1,8 @@
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\04 task Scheduling\04 task Scheduling\bin\Debug\04 task Scheduling.exe.config
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\04 task Scheduling\04 task Scheduling\bin\Debug\04 task Scheduling.exe
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\04 task Scheduling\04 task Scheduling\bin\Debug\04 task Scheduling.pdb
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\04 task Scheduling\04 task Scheduling\obj\Debug\04 task Scheduling.csproj.AssemblyReference.cache
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\04 task Scheduling\04 task Scheduling\obj\Debug\04 task Scheduling.csproj.SuggestedBindingRedirects.cache
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\04 task Scheduling\04 task Scheduling\obj\Debug\04 task Scheduling.csproj.CoreCompileInputs.cache
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\04 task Scheduling\04 task Scheduling\obj\Debug\04 task Scheduling.exe
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\04 task Scheduling\04 task Scheduling\obj\Debug\04 task Scheduling.pdb

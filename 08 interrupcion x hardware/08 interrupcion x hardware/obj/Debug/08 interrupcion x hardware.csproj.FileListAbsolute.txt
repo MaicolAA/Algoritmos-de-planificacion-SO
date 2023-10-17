@@ -1,0 +1,8 @@
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\08 interrupcion x hardware\08 interrupcion x hardware\bin\Debug\08 interrupcion x hardware.exe.config
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\08 interrupcion x hardware\08 interrupcion x hardware\bin\Debug\08 interrupcion x hardware.exe
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\08 interrupcion x hardware\08 interrupcion x hardware\bin\Debug\08 interrupcion x hardware.pdb
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\08 interrupcion x hardware\08 interrupcion x hardware\obj\Debug\08 interrupcion x hardware.csproj.AssemblyReference.cache
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\08 interrupcion x hardware\08 interrupcion x hardware\obj\Debug\08 interrupcion x hardware.csproj.SuggestedBindingRedirects.cache
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\08 interrupcion x hardware\08 interrupcion x hardware\obj\Debug\08 interrupcion x hardware.csproj.CoreCompileInputs.cache
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\08 interrupcion x hardware\08 interrupcion x hardware\obj\Debug\08 interrupcion x hardware.exe
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\08 interrupcion x hardware\08 interrupcion x hardware\obj\Debug\08 interrupcion x hardware.pdb

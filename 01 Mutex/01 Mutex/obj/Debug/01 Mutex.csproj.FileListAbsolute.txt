@@ -1,0 +1,8 @@
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\01 Mutex\01 Mutex\bin\Debug\01 Mutex.exe.config
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\01 Mutex\01 Mutex\bin\Debug\01 Mutex.exe
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\01 Mutex\01 Mutex\bin\Debug\01 Mutex.pdb
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\01 Mutex\01 Mutex\obj\Debug\01 Mutex.csproj.AssemblyReference.cache
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\01 Mutex\01 Mutex\obj\Debug\01 Mutex.csproj.SuggestedBindingRedirects.cache
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\01 Mutex\01 Mutex\obj\Debug\01 Mutex.csproj.CoreCompileInputs.cache
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\01 Mutex\01 Mutex\obj\Debug\01 Mutex.exe
+C:\Users\MAICOL\AA\UNAULA\SEMESTRE 6\SO\Implementacion algoritmos de planificacion\01 Mutex\01 Mutex\obj\Debug\01 Mutex.pdb
