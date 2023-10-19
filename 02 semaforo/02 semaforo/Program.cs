@@ -10,11 +10,11 @@ namespace _02_semaforo
     internal class Program
     {
         
-         private static Semaphore semaforo = new Semaphore(2, 2); //cant hilos simultaneo
+        private static Semaphore semaforo = new Semaphore(2, 2); //cant hilos simultaneo
 
         public static void Main()
         {
-            for (int i = 0; i < 5; i++)
+            for (int i=0; i<5; i++)
             {
                 Thread thread = new Thread(DoWork);
                 thread.Start(i);

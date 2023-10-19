@@ -40,6 +40,8 @@ namespace _06_Inversion_Prioridad
         static void TareaPrioridadMedia()
         {
             Console.WriteLine("Hilo de prioridad media se esta ejecutando");
+            Thread.Sleep(1500);
+            Console.WriteLine("Hilo de prioridad media ha terminado");
         }
 
         static void TareaPrioridadAlta()

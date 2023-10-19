@@ -14,9 +14,9 @@ namespace _01_Mutex
 
                 var mutex = new Mutex(false, "miMutexUnico");
 
-                var proceso1 = new Thread(() =>
+                var proceso1 = new Thread(()=>
                 {
-                    Console.WriteLine("IniciandoProceso1");
+                    Console.WriteLine("Iniciando Proceso1");
                     mutex.WaitOne();
 
                     Console.WriteLine("Proceso 1 accediendo al recurso");
@@ -26,9 +26,9 @@ namespace _01_Mutex
                     Console.WriteLine("FinalizandoProceso1");
                 });
 
-                var proceso2 = new Thread(() =>
+                var proceso2 = new Thread(()=>
                 {
-                    Console.WriteLine("IniciandoProceso2");
+                    Console.WriteLine("Iniciando Proceso2");
                     mutex.WaitOne();
 
                     Console.WriteLine("Proceso 2 accediendo al recurso");
@@ -36,7 +36,7 @@ namespace _01_Mutex
 
                     mutex.ReleaseMutex();
 
-                    Console.WriteLine("FinalizandoProceso1");
+                    Console.WriteLine("Finalizando Proceso2");
                 });
 
                 proceso1.Start();

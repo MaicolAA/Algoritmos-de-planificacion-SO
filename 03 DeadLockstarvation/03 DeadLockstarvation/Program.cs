@@ -10,8 +10,8 @@ namespace _03_DeadLockstarvation
     internal class Program
     {
 
-          private static object candado1 = new object();
-          private static object candado2 = new object();
+        private static object candado1 = new object();
+        private static object candado2 = new object();
 
         public static void Main()
         {

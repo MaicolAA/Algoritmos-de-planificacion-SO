@@ -12,7 +12,7 @@ namespace _08_interrupcion_x_hardware
     {
         static void Main()
         {
-            SerialPort serialPort = new SerialPort("COM3");
+            SerialPort serialPort = new SerialPort("COM1");
 
             try
             {
